@@ -1,5 +1,7 @@
 # 24K-3067
-my name is mawahid. i am a software engineering student at fast.
-i did my o and alevels from genrations
-![Aesthetics](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Faesthetic%2F&psig=AOvVaw2IqZRExyS9J5kneKjDDpJM&ust=1725037727484000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiPlLrYmogDFQAAAAAdAAAAABAE)
+## My name is Mawahid.
+I am a software engineering student at fast.
+I did my o/alevels from genrations
+
+![aesthetic](https://www.boredpanda.com/blog/wp-content/uploads/2023/10/20-MOST-AESTHETIC-WALLPAPERS-651dcf65b6517-png__880.jpg)
 the picture above is just random
