@@ -1,3 +1,4 @@
+//Is it raining or not?
 #include <stdio.h>
 
 int main(){
