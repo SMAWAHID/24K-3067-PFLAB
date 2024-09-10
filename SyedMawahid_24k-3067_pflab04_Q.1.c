@@ -4,7 +4,7 @@
 int main(){
 	int a;
 	
-	printf("Enter 1 for YES and 0 for NO");
+	printf("Enter 1 for YES and 0 for NO?: ");
 	scanf("%d", &a);
 	
 	if (a==1){
